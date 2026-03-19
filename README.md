@@ -30,7 +30,7 @@ Here is a selection of my most significant work, demonstrating skills from **Low
 | 🔍 **[News Search Engine & RAG](https://github.com/panagiotispar/Information-Retrieval-News-Search)** | A Full-stack search system combining a **Lucene/Java** backend and a **Python/LLM (RAG)** question-answering app. | `Java` `Lucene` `Python` `LangChain` |
 | 🛡️ **[Systems Security Exploits](https://github.com/panagiotispar/Security-of-Computer-Systems-and-Networks-Labs)** | Cybersecurity labs demonstrating **Stack-based Buffer Overflows** and **SSH Man-in-the-Middle** attacks. | `Perl` `GDB` `Wireshark` `Metasploit` |
 | 📊 **[Systems Simulation & Modeling](https://github.com/panagiotispar/Simulation-Modeling-Systems)** | Performance analysis of Database Virtualization (Docker) and Discrete Event Simulation of clusters. | `Python` `Docker` `Ciw` `Statistics` |
-| 🤖 **[AI Search & Adversarial Games](https://github.com/panagiotispar/Artificial-Intelligence)** | Implementation of pathfinding algorithms (A*, UCS) for the 8-Puzzle and a Minimax agent for a custom Tic-Tac-Toe variant. | `Java` `JavaFX` `Algorithms` |
+| 🤖 **[AI Search & Adversarial Games](https://github.com/panagiotispar/AI-Search-And-Games)** | Implementation of pathfinding algorithms (A*, UCS) for the 8-Puzzle and a Minimax agent for a custom Tic-Tac-Toe variant. | `Java` `JavaFX` `Algorithms` |
 
 ---
 
