@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Βanner.png" alt="Panagiotis 3D Banner" width="100%">
+  <img src="https://github.com/panagiotispar/panagiotispar/blob/main/Banner.png?raw=true" alt="Panagiotis 3D Banner" width="100%">
 </div>
 
 # Hi there, I'm Panagiotis! 👋
