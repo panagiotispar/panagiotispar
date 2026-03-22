@@ -1,3 +1,5 @@
+<img src="banner.png" alt="Panagiotis 3D Banner" width="100%">
+
 # Hi there, I'm Panagiotis! 👋
 
 I'm a senior **Computer Engineering student** at the **University of Ioannina (UOI)**, passionate about low-level systems, simulation modeling, and building efficient software architectures.
