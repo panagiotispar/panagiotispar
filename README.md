@@ -27,9 +27,12 @@ My academic focus includes **Systems Engineering**, **Artificial Intelligence**,
 
 <div align="center">
   <img src="presentation.gif" alt="3D Gaussian Splatting Workspace" width="85%">
-  <br>
-  <em>Isolated 3D reconstruction of my workspace using Gaussian Splatting.</em>
 </div>
+
+> **3D Reconstruction & Novel View Synthesis of my workspace.** > This project demonstrates a full end-to-end pipeline for generating photorealistic 3D scenes from 2D images using State-of-the-Art techniques:
+> * **SfM & Camera Tracking:** Extracted sparse point clouds and calculated camera poses using **COLMAP**.
+> * **Model Training:** Trained the Gaussian Splatting model locally utilizing **PyTorch** and custom **CUDA/C++** rasterization kernels.
+> * **Rendering & Pipeline:** Cleaned the generated point cloud data, rendered the isolated transparent sequence via **Blender** (custom splat shaders), and optimized the final visualization using **FFmpeg**.
 
 ---
 
