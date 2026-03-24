@@ -26,7 +26,7 @@ My academic focus includes **Systems Engineering**, **Artificial Intelligence**,
 ### 🎓 Current Focus: Thesis on 3D Gaussian Splatting
 
 <div align="center">
-  <img src="presentation.gif" alt="3D Gaussian Splatting Workspace" width="85%">
+  <img src="My_Setup.gif" alt="3D Gaussian Splatting Workspace" width="85%">
 </div>
 
 > **3D Reconstruction & Novel View Synthesis of my workspace.** > This project demonstrates a full end-to-end pipeline for generating photorealistic 3D scenes from 2D images using State-of-the-Art techniques:
