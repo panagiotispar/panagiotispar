@@ -4,7 +4,7 @@
 
 # Hi there, I'm Panagiotis! 👋
 
-I'm a senior **Computer Engineering student** at the **University of Ioannina (UOI)**, passionate about low-level systems, simulation modeling, and building efficient software architectures.
+I'm a senior **Computer Engineering student** at the **University of Ioannina (UOI)**, passionate about visual computing, low-level systems, and building efficient software architectures.
 
 My academic focus includes **Systems Engineering**, **Artificial Intelligence**, and **Computer Graphics**.
 
