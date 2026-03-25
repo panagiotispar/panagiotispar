@@ -23,16 +23,33 @@ My academic focus includes **Systems Engineering**, **Artificial Intelligence**,
 
 ---
 
-### 🎓 Current Focus: Thesis on 3D Gaussian Splatting
+### 🎓 Current Focus: Thesis on Gaussian Splatting
 
-<div align="center">
-  <img src="My_Setup.gif" alt="3D Gaussian Splatting Workspace" width="85%">
-</div>
-
-> **3D Reconstruction & Novel View Synthesis of my workspace.** > This project demonstrates a full end-to-end pipeline for generating photorealistic 3D scenes from 2D images using State-of-the-Art techniques:
-> * **SfM & Camera Tracking:** Extracted sparse point clouds and calculated camera poses using **COLMAP**.
-> * **Model Training:** Trained the Gaussian Splatting model locally utilizing **PyTorch** and custom **CUDA/C++** rasterization kernels.
-> * **Rendering & Pipeline:** Cleaned the generated point cloud data, rendered the isolated transparent sequence via **Blender** (custom splat shaders), and optimized the final visualization using **FFmpeg**.
+<table border="0">
+  <tr>
+    <td width="55%" valign="top">
+      <!-- Badges Section -->
+      <img src="https://img.shields.io" alt="PyTorch">
+      <img src="https://img.shields.io" alt="CUDA">
+      <img src="https://img.shields.io" alt="C++">
+      <img src="https://img.shields.io" alt="Blender">
+      <img src="https://img.shields.io" alt="FFmpeg">
+      <br><br>
+      <p align="justify">
+        <strong>3D Reconstruction & Novel View Synthesis of my workspace.</strong><br>
+        This project demonstrates a full end-to-end pipeline for generating photorealistic 3D scenes from 2D images using State-of-the-Art techniques:
+      </p>
+      <ul>
+        <li><strong>SfM & Camera Tracking:</strong> Extracted sparse point clouds and calculated camera poses using <strong>COLMAP</strong>.</li>
+        <li><strong>Model Training:</strong> Trained the Gaussian Splatting model locally utilizing <strong>PyTorch</strong> and custom <strong>CUDA/C++</strong> rasterization kernels.</li>
+        <li><strong>Rendering & Pipeline:</strong> Cleaned the generated point cloud data, rendered the isolated transparent sequence via <strong>Blender</strong> (custom splat shaders), and optimized the final visualization using <strong>FFmpeg</strong>.</li>
+      </ul>
+    </td>
+    <td width="45%" valign="center">
+      <img src="My_Setup.gif" alt="3D Gaussian Splatting Workspace" width="100%">
+    </td>
+  </tr>
+</table>
 
 ---
 
