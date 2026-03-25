@@ -23,18 +23,11 @@ My academic focus includes **Systems Engineering**, **Artificial Intelligence**,
 
 ---
 
-### 🎓 Current Focus: Thesis on Gaussian Splatting
+### 🎓 Current Focus: Thesis on  Gaussian Splatting
 
 <table border="0">
   <tr>
     <td width="55%" valign="top">
-      <!-- Badges Section -->
-      <img src="https://img.shields.io" alt="PyTorch">
-      <img src="https://img.shields.io" alt="CUDA">
-      <img src="https://img.shields.io" alt="C++">
-      <img src="https://img.shields.io" alt="Blender">
-      <img src="https://img.shields.io" alt="FFmpeg">
-      <br><br>
       <p align="justify">
         <strong>3D Reconstruction & Novel View Synthesis of my workspace.</strong><br>
         This project demonstrates a full end-to-end pipeline for generating photorealistic 3D scenes from 2D images using State-of-the-Art techniques:
@@ -44,9 +37,17 @@ My academic focus includes **Systems Engineering**, **Artificial Intelligence**,
         <li><strong>Model Training:</strong> Trained the Gaussian Splatting model locally utilizing <strong>PyTorch</strong> and custom <strong>CUDA/C++</strong> rasterization kernels.</li>
         <li><strong>Rendering & Pipeline:</strong> Cleaned the generated point cloud data, rendered the isolated transparent sequence via <strong>Blender</strong> (custom splat shaders), and optimized the final visualization using <strong>FFmpeg</strong>.</li>
       </ul>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
+        <img src="https://img.shields.io/badge/CUDA-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA">
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+        <br>
+        <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
+        <img src="https://img.shields.io/badge/FFmpeg-%23007808.svg?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="FFmpeg">
+      </p>
     </td>
     <td width="45%" valign="center">
-      <img src="My_Setup.gif" alt="3D Gaussian Splatting Workspace" width="100%">
+      <img src="My_Setup.gif" autoplay loop muted playsinline width="100%"></video>
     </td>
   </tr>
 </table>
