@@ -29,7 +29,7 @@ My academic focus includes **Systems Engineering**, **Artificial Intelligence**,
   <tr>
     <td width="55%" valign="top">
       <p align="justify">
-        <strong>3D Reconstruction & Novel View Synthesis of my workspace.</strong><br>
+        <strong>3D Reconstruction & Novel View Synthesis of myself.</strong><br>
         This project demonstrates a full end-to-end pipeline for generating photorealistic 3D scenes from 2D images using State-of-the-Art techniques:
       </p>
       <ul>
@@ -47,7 +47,7 @@ My academic focus includes **Systems Engineering**, **Artificial Intelligence**,
       </p>
     </td>
     <td width="45%" valign="center">
-      <img src="My_Setup.gif" autoplay loop muted playsinline width="100%"></video>
+      <img src="Myself.gif" autoplay loop muted playsinline width="100%"></video>
     </td>
   </tr>
 </table>
